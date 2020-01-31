@@ -1,0 +1,4 @@
+* xref:github_org.adoc[Github Organization Job]
+* xref:pipeline.adoc[Individual Pipeline Jobs]
+* xref:template_step.adoc[The Template Step]
+* xref:repository.adoc[Multibranch Job]

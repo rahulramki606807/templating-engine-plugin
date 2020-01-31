@@ -1,0 +1,6 @@
+name: Job_Configurations
+title: Job Configurations
+version: 1.0
+start_page: ROOT:github_org.adoc
+nav:
+- modules/ROOT/nav.adoc

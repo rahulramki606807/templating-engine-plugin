@@ -1,0 +1,6 @@
+name: Primitives
+title: Primitives 
+version: 1.0
+start_page: ROOT:what_is_a_primitive_in_jte.adoc
+nav:
+- modules/ROOT/nav.adoc
