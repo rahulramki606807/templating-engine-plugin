@@ -1,0 +1,6 @@
+name: Governance
+title: Governance
+version: 1.0
+start_page: ROOT:governance_tier.adoc
+nav:
+- modules/ROOT/nav.adoc
