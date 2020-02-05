@@ -1,0 +1,6 @@
+name: Pipeline_Templating
+title: Pipeline Templating 
+version: 1.0
+start_page: pipeline:what_is_a_pipeline_template.adoc
+nav:
+- modules/pipeline/nav.adoc
