@@ -1,0 +1,6 @@
+name: Plugin_Development
+title: Plugin Development  
+version: 1.0
+start_page: ROOT:index.adoc
+nav:
+- modules/ROOT/nav.adoc

@@ -1,0 +1,6 @@
+name: Library_Development
+title: Library Development 
+version: 1.0
+start_page: ROOT:getting_started.adoc
+nav:
+- modules/ROOT/nav.adoc
