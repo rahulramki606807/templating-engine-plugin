@@ -1,0 +1,31 @@
+site:
+  title: Templating Engine Plugin
+  url: http://localhost
+  start_page: General::index.adoc
+content:
+  sources:
+  - url: .
+    branches: HEAD
+    start_path: General
+  - url: .
+    branches: HEAD
+    start_path: Governance
+  - url: .
+    branches: HEAD
+    start_path: Library_Development
+  - url: .
+    branches: HEAD
+    start_path: Pipeline_Templating
+  - url: .
+    branches: HEAD
+    start_path: Plugin_Development
+  - url: .
+    branches: HEAD
+    start_path: Primitives
+  - url: .
+    branches: HEAD
+    start_path: Custom_Primitives
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
