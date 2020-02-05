@@ -1,0 +1,6 @@
+* xref:index.adoc[Plugin Development]
+* xref:execution_flow.adoc[Execution Flow]
+* xref:lifecycle_hooks.adoc[Lifecycle Hooks]
+* xref:local_development.adoc[Local Development]
+* xref:template_binding.adoc[Template Binding]
+* xref:template_primitives.adoc[Template Primitives]
